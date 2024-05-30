@@ -9,7 +9,7 @@ Email us at info@koicontinuity.com if you would like to demo or use our full sta
 
 You can also find us on linkedin here https://www.linkedin.com/company/koi-continuity-inc/ <br/>
 
-Note on this organization page only our mockups for our future website will be found here. If you would like a demo of our full-stack business product please contact the email above. 
+Note on this organization page only our mockups for our future website will be found here. If you would like a demo of our full-stack business continuity product please contact the email above. 
 
 
 
