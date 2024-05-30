@@ -5,7 +5,7 @@
 
 You can find more details from this website https://www.koicontinuity.com/ <br/>
 
-Email us at info@koicontinuity.com if you would like to use our full stack business continuity product <br/>
+Email us at info@koicontinuity.com if you would like to demo or use our full stack JavaScript business continuity product<br/>
 
 You can also find us on linkedin here https://www.linkedin.com/company/koi-continuity-inc/ <br/>
 
