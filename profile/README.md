@@ -1,4 +1,4 @@
-## Koi Continuity  <img height=40 width=70 src="https://github.com/Koi-Continuity/.github/assets/87055387/693a5fa2-8a4b-4731-9940-b873eec8229f">
+## Koi Continuity        <img height=40 width=70 src="https://github.com/Koi-Continuity/.github/assets/87055387/693a5fa2-8a4b-4731-9940-b873eec8229f">
 
 
 **We offer one single tool for staff notification, incident response, risk mitigation, exercising & testing, real-time metrics, vendor and program management.** <br/>
